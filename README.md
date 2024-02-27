@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Recently graduated in Computer Sciences with a passion for problem-solving through programming. 
-Proficient in various programming languages, including Java, and C, and knowledge in web development (HTML, CSS).
