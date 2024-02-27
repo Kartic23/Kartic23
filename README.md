@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Recently graduated Computer Sciences with a passion for problem-solving through programming. 
+Recently graduated in Computer Sciences with a passion for problem-solving through programming. 
 Proficient in various programming languages, including Java, and C, and knowledge in web development (HTML, CSS).
