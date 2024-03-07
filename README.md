@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Programming Languages:
+
+![image](https://github.com/Kartic23/Kartic23/assets/105547398/dc53dbb7-7574-43f2-baec-f2c9fa8da429)
