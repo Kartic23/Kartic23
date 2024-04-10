@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="badges">
+  <a href="https://kartic23.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-green?logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
