@@ -26,7 +26,7 @@ I’m a recent Computer Science graduate with a strong passion for solving real-
 
 💡 My core strengths include:
 
-- Proficiency in Java, C, and a solid foundation in web development (HTML, CSS)
+- Proficiency in Java, and a solid foundation in web development (HTML, CSS)
 - An enthusiasm for building functional, user-friendly applications
 - A mindset focused on continuous learning and improvement
 
