@@ -1,22 +1,11 @@
 ### Kartic Premgi 👋
 
-<div id="badges">
-  <a href="https://kartic23.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-green?logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</div>
-
 
 <h1 align="center">Hey there, I'm Kartic! 👋</h1>
 <p align="center">
   <a href="https://kartic23.github.io/Portfolio/"><strong>Visit My Portfolio 🌐</strong></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Dev-%F0%9F%92%BB-blue" />
-  <img src="https://img.shields.io/badge/UI/UX%20Design-%F0%9F%93%8A-orange" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red" />
-</p>
 
 ---
 
