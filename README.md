@@ -1,21 +1,5 @@
 ### Kartic Premgi 👋
 
-<!--
-**Kartic23/Kartic23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div id="badges">
   <a href="https://kartic23.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-green?logoColor=white" alt="Portfolio Badge"/>
@@ -37,14 +21,6 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻 About Me
-
-I'm **Kartic**, a passionate front-end developer with a love for turning creative ideas into interactive digital experiences. My focus is on:
-
-- ✨ Building responsive and intuitive UIs
-- 🎨 Crafting clean and modern web designs
-- ⚡ Bringing static designs to life with smooth animations
-
-I enjoy blending **technology and design** to create beautiful, functional websites.
 
 I’m a recent Computer Science graduate with a strong passion for solving real-world problems through programming and software development.
 
