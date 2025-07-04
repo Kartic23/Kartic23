@@ -1,6 +1,3 @@
-### Kartic Premgi 👋
-
-
 <h1 align="center">Hey there, I'm Kartic! 👋</h1>
 <p align="center">
   <a href="https://kartic23.github.io/Portfolio/"><strong>Visit My Portfolio 🌐</strong></a>
