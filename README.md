@@ -47,10 +47,10 @@ Beyond individual contributions, I also collaborated on multiple group projects,
 
 Here are some tools and technologies I work with:
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: React, Tailwind CSS, Bootstrap
-- **Tools**: Figma, Git, GitHub, VS Code
-- **Others**: GSAP, Framer Motion, Firebase
+- **Languages**: HTML, CSS, JavaScript, Java, Python, Mulesoft
+- **Frameworks**: React, CSS, Bootstrap, Django,Spring Boot
+- **Databases**: MySQL, Oracle, Postgres
+- **Tools**: Git, GitHub, VS Code
 
 ---
 
@@ -67,8 +67,8 @@ A clean and creative portfolio showcasing my projects, skills, and resume — fu
 
 Feel free to connect with me on any of these platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartic-premgi-b25727174/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](karticpremgi@gmail.com)
 
 ---
 
