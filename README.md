@@ -19,7 +19,7 @@ I’m a recent Computer Science graduate with a strong passion for solving real-
 
 ---
 
-💼 Relevant Experience
+### 💼 Relevant Experience
 During my academic journey, I led and contributed to several impactful projects. One of the most notable was the development of a web application using the Django framework. This project involved:
 - Designing and implementing a scalable and secure database structure
 - Developing both front-end and back-end components for an interactive user experience
