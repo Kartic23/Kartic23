@@ -46,6 +46,25 @@ I'm **Kartic**, a passionate front-end developer with a love for turning creativ
 
 I enjoy blending **technology and design** to create beautiful, functional websites.
 
+I’m a recent Computer Science graduate with a strong passion for solving real-world problems through programming and software development.
+
+💡 My core strengths include:
+
+- Proficiency in Java, C, and a solid foundation in web development (HTML, CSS)
+- An enthusiasm for building functional, user-friendly applications
+- A mindset focused on continuous learning and improvement
+
+
+---
+
+💼 Relevant Experience
+During my academic journey, I led and contributed to several impactful projects. One of the most notable was the development of a web application using the Django framework. This project involved:
+- Designing and implementing a scalable and secure database structure
+- Developing both front-end and back-end components for an interactive user experience
+- Ensuring the application adhered to modern security and performance standards
+
+Beyond individual contributions, I also collaborated on multiple group projects, where I sharpened my teamwork, communication, and problem-solving skills — essential traits for real-world software development.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -77,6 +96,4 @@ Feel free to connect with me on any of these platforms:
 
 ---
 
-<p align="center">
-  🔥 "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
-</p>
+
