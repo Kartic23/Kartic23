@@ -42,10 +42,10 @@ Here are some tools and technologies I work with:
 
 ### Projects Spotlight
 
-🖥️ [**Personal Portfolio Website**](https://kartic23.github.io/Portfolio/)  
+[**Personal Portfolio Website**](https://kartic23.github.io/Portfolio/)  
 A clean and creative portfolio showcasing my projects, skills, and resume — fully responsive and animated for a modern feel.
 
-✨ More projects coming soon!
+More projects coming soon!
 
 ---
 
